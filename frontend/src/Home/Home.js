@@ -4,11 +4,11 @@ const Home = () => {
   return (
     <div className="home">
       <iframe
-        id="inlineFrameExample"
+        id="inlineFrameExample lala"
         title="Inline Frame Example"
         width="100%"
         height="100%"
-        src="https://www.mapcrunch.com/"
+        src="https://www.pse.ong/"
       />
       <div className="bottom-placeholder" />
     </div>
